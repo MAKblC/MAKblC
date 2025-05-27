@@ -1,1 +1,1 @@
-![Git](Новая версия)
+![Git](https://gitverse.ru/MGBot))
